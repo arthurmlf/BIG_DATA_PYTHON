@@ -1,0 +1,28 @@
+https://medium.com/@vishalbarvaliya/choosing-the-right-big-data-format-a-data-engineers-guide-to-when-and-why-ee77def605fd
+https://medium.com/@emmaajayi04/exploring-the-importance-of-big-data-analytics-in-business-decision-making-52fa8c91bd25
+https://medium.com/@longeardev/artificial-intelligence-and-machine-learning-ai-and-big-data-11f3074de146
+
+Big Data é a área de conhecimento que visa trabalhar com um grande volume de dados, esse grande volume de dados dificulta a verificação individual de cada dado e por isso existem diversas formas de tratalos
+até porque nem sempre todos os dados da base de dados são relevantes para o estudo em questão.
+
+Ao trabalhar com Big Data o usuário deve ter em mente que os dados usados podem estar em diversos formatos como CSV. XLSX, JSON, ORC, Avro dentre outros e que junto a esses dados ele pode ter informações 
+irrelevantes para os resultados que ele almeja. Então em muitos casos uma limpeza da base de dados se faz necessária para acelerar o trabalho, deixar mais claro e fácil de demonstrar os resultados.
+
+O tratamento dos dados pode ser feito de utilizando várias ferramentas as quais vão ter suas vantagens e desvantagens dentre elas cabe ao usuário saber extraír o potencial máximo da ferramenta utilizada,
+tendo em vista que o usuário pode fazer um simples filtro dos dados que lhe enteressam até elaborados dashboards e todos os tipos de gráficos tornando a interpretação desses dados mais acessíveis ao usuário
+leigo, atualmente trabalhos com BIG DATAS atualmente estão sendo muito usados para tomadas de decisões estratégicas em muitas empresas de grande porte onde o volume de dados é enorme e a tomada de decisão 
+sem um embasamento e um estudo bem feito pode custar muito dinheiro, contratos e até mesmo perca de mercado.
+
+As ferramentas de tratamento de dados para trabalhar com BIG DATA não necessáriamente irão trabalhar com a mesma linguagem mas a lógica por trás do tratamento e resultados é muito parecida, por isso é possível
+"ensinar" a uma IA como fazer esse tratamento, quais os dados relevantes, o que é esperado daquela base de dados e como apresentar os resultados. Tornando os resultados mais fidedígnos a realidade e diminuindo
+os riscos de erros.
+
+Existe um conjunto de "regras" que definem o trabalho com Big Data, conhecidas como 5 V's do Big Data. São elas, Volume, Velocidade, Variedade, Veracidade e Valor.
+Cada um desses V's tem um significado e o conehcimento desses V's e suas definições são essenciais para um trabalho bem feito em Big Data.
+Volume: Atualmente existe uma enorme produção de dados que vem em uma crescente exponencial dessa produção, seja ela roduzida por seres humanos ou não, com o desenvolvimento da internet, IA's e IoT.
+Velocidade: A velocidade com a qual esse volume de dados gera informações que sejam trabalhaveis, ser rápido nessa resposta é o conceitto de velocidade.
+Variedade: Os dados provêm de diversas fontes: redes sociais, aplicativos, e-mails, gps, cookies, IoT, bancos de dados públicos, revendedores autorizados etc. O que significa que eles não seguem os mesmos 
+            padrões e nem fornecem os mesmos tipos de informação. Assim, torna a tarefa de compilação e organização de dados bastante desafiadora.E, assim como o volume, a variedade de fontes de dados só tende a aumentar 
+            com o avanço tecnológico. Mas assim como a velocidade, já existem ferramentas que são capazes de lidar com a heterogeneidade de dados e conseguem processá-los e agrupá-los de forma coerente.
+Veracidade: Está relacionada a fonte que gerou os dados, se ela é confiável, se teria dados falsos ou incompletos. 
+Valor: Está relacionado com o valor da informação gerada com base no enorme volume de dados de um BIG DATA.
